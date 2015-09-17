@@ -14,13 +14,18 @@
 
 ## Converting IDs in R
 
-### AnnotationDbi packages
+### AnnotationHub packages
 
 Pros:
 
 * can be used offline
 * convert large number of symbols quickly
 * updated every six months (reproducible)
+
+
+[annotationBioconductor]: https://www.bioconductor.org/help/workflows/annotation/annotation/
+[annotationHubTutorial]: http://bioconductor.org/packages/release/bioc/vignettes/AnnotationHub/inst/doc/AnnotationHub.html
+
 
 ### biomaRt
 
